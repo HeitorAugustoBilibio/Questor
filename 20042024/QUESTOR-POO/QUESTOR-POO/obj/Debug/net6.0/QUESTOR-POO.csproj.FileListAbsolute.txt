@@ -1,0 +1,15 @@
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\bin\Debug\net6.0\QUESTOR-POO.exe
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\bin\Debug\net6.0\QUESTOR-POO.deps.json
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\bin\Debug\net6.0\QUESTOR-POO.runtimeconfig.json
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\bin\Debug\net6.0\QUESTOR-POO.dll
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\bin\Debug\net6.0\QUESTOR-POO.pdb
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.AssemblyInfoInputs.cache
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.AssemblyInfo.cs
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.csproj.CoreCompileInputs.cache
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.sourcelink.json
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.dll
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\refint\QUESTOR-POO.dll
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.pdb
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\QUESTOR-POO.genruntimeconfig.cache
+C:\Heitor\Questor\20-04-2024\QUESTOR-POO\QUESTOR-POO\obj\Debug\net6.0\ref\QUESTOR-POO.dll
