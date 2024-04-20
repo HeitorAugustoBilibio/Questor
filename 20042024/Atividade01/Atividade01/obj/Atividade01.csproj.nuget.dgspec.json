@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Heitor\\Questor\\20-04-2024\\Atividade01\\Atividade01\\Atividade01.csproj": {}
+    "C:\\Heitor\\Questor\\20042024\\Atividade01\\Atividade01\\Atividade01.csproj": {}
   },
   "projects": {
-    "C:\\Heitor\\Questor\\20-04-2024\\Atividade01\\Atividade01\\Atividade01.csproj": {
+    "C:\\Heitor\\Questor\\20042024\\Atividade01\\Atividade01\\Atividade01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Heitor\\Questor\\20-04-2024\\Atividade01\\Atividade01\\Atividade01.csproj",
+        "projectUniqueName": "C:\\Heitor\\Questor\\20042024\\Atividade01\\Atividade01\\Atividade01.csproj",
         "projectName": "Atividade01",
-        "projectPath": "C:\\Heitor\\Questor\\20-04-2024\\Atividade01\\Atividade01\\Atividade01.csproj",
+        "projectPath": "C:\\Heitor\\Questor\\20042024\\Atividade01\\Atividade01\\Atividade01.csproj",
         "packagesPath": "C:\\Users\\heitor_bilibio\\.nuget\\packages\\",
-        "outputPath": "C:\\Heitor\\Questor\\20-04-2024\\Atividade01\\Atividade01\\obj\\",
+        "outputPath": "C:\\Heitor\\Questor\\20042024\\Atividade01\\Atividade01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heitor_bilibio\\AppData\\Roaming\\NuGet\\NuGet.Config",

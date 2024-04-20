@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace Atividade01
 {
-    public static class Calculadora
+    public class Calculadora
     {
-        public static int soma(int a, int b)
+        public int soma(int a, int b)
         {
             return a + b;
         }
-        public static int subtrair(int a, int b)
+        public int subtrair(int a, int b)
         {
             return a - b;
         }
-        public static int dividir(int a, int b)
+        public int dividir(int a, int b)
         {
             return a / b;
         }
-        public static int multiplica(int a, int b)
+        public int multiplica(int a, int b)
         {
             return a * b;
         }
